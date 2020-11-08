@@ -3,7 +3,7 @@
 #Stack: 
 
   - JavaScript / TypeScript
-  - Angular / React
+  - Angular / React / RxJS
   - Node / Express
   - JVM Languages basics
 
