@@ -4,7 +4,7 @@
 
   - JavaScript / TypeScript
   - Angular / React / RxJS
-  - Node / Express
+  - Node / Express / Nest
   - JVM Languages basics
 
 
