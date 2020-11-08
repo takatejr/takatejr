@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#Stack: 
+
+  - JavaScript / TypeScript
+  - Angular / React
+  - Node / Express
+  - JVM Languages basics
+
+
 <!--
 **takatejr/takatejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
