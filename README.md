@@ -7,6 +7,7 @@
   - Node / Express / Nest
   - JVM Languages basics
 
+Scrap by puppeteer ;)
 
 <!--
 **takatejr/takatejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
