@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Github account is my codding playground.
+
 #Stack: 
 
   - JavaScript / TypeScript
