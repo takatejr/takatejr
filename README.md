@@ -5,7 +5,7 @@ Github account is my codding playground.
 #Stack: 
 
   - JavaScript / TypeScript
-  - Angular / React / RxJS
+  - Angular / RxJS
 
 <!--
 **takatejr/takatejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
